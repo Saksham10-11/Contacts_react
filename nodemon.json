@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "vite.config.js"],
+  "ext": "js,ts,jsx,tsx,vue,html,css",
+  "exec": "npm run dev"
+}
